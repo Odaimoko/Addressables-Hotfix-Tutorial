@@ -16,7 +16,6 @@ MonoBehaviour:
   - Mouse
   - Bull
   - Tiger
-  - Rabbit
   updatableAddresses:
     m_keys: []
     m_values: []
