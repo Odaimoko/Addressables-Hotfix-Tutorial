@@ -47,7 +47,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e83dea922308e49839f586f4d58d9c68, type: 2}
   - {fileID: 11400000, guid: ec5679c53547b46b7b3f3d404010ae85, type: 2}
   - {fileID: 11400000, guid: caab9c60c0a2b495cadfdf3524a42024, type: 2}
-  - {fileID: 11400000, guid: 5f94a156ff2e54b9cac25aa5105e830e, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -133,35 +132,7 @@ MonoBehaviour:
           m_ClassName: System.Int32
           m_Data: 0
           m_Key: InstanceId
-    - classRef: UnityEditor.AddressableAssets.HostingServices.HttpHostingService,
-        Unity.Addressables.Editor
-      dataStore:
-        m_SerializedData:
-        - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-          m_ClassName: System.Int32
-          m_Data: 52221
-          m_Key: HostingServicePort
-        - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-          m_ClassName: System.Int32
-          m_Data: 0
-          m_Key: HostingServiceUploadSpeed
-        - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-          m_ClassName: System.String
-          m_Data: Library/com.unity.addressables/aa/Android/Android;ServerData/Android
-          m_Key: ContentRoot
-        - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-          m_ClassName: System.Boolean
-          m_Data: False
-          m_Key: IsEnabled
-        - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-          m_ClassName: System.String
-          m_Data: Local Hosting 3
-          m_Key: DescriptiveName
-        - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-          m_ClassName: System.Int32
-          m_Data: 3
-          m_Key: InstanceId
     m_Settings: {fileID: 11400000}
-    m_NextInstanceId: 4
+    m_NextInstanceId: 5
     m_RegisteredServiceTypeRefs:
     - UnityEditor.AddressableAssets.HostingServices.HttpHostingService, Unity.Addressables.Editor

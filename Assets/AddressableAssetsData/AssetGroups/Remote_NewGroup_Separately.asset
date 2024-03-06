@@ -21,10 +21,6 @@ MonoBehaviour:
     m_Address: Assets/TutorialExamples/RemoteAssets
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 1d4f230ed0e4245d8a0a68a826e2ef5a
-    m_Address: AddressCollection
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d9e983741cbe5450ba00b05fb53d4620, type: 2}
   m_SchemaSet:
