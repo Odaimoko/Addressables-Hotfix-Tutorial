@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RemoteNonstatic_CanChange
+  m_EditorClassIdentifier: 
+  m_GroupName: RemoteNonstatic_CanChange
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 44ece80129b0f4654b93503a54afd630
+  m_SerializeEntries:
+  - m_GUID: b24a6073fc27e404cb43562a32515fca
+    m_Address: Assets/TutorialExamples/RemoteAssets
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d9e983741cbe5450ba00b05fb53d4620, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b883e0780f8884eb79040b498029ec21, type: 2}
+    - {fileID: 11400000, guid: 661af255a78dd45f185f022190fdb096, type: 2}
