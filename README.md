@@ -8,6 +8,7 @@ I will only show you the minimalistic examples for you to build upon, perfectly 
 
 This tutorial is written with Addressables `1.19.19` and Unity `2021.3.29f1`, developed on MacOS, deployed on MacOS and Android. I believe it works from Unity `2020.3` and Addressables `1.16+`, for any platform. Although there could be some buttons or checkboxes moved around since then, in which case please let me know via [GitHub Issues](https://github.com/Odaimoko/AddressablesTutorial/issues).
 
+# Tutorial Content
 [Part 1: Introduction](https://imoko.cc/blog/imk/AddressablesTutorial/Addressables-Introduction)
 
 [Part 2: Best Practice](
